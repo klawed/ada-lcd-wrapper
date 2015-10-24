@@ -1,0 +1,17 @@
+{
+  "name": "lcd-wrapper",
+  "version": "0.0.0",
+  "description": "A wrapper for https://www.npmjs.com/package/adafruit-i2c-lcd",
+  "main": "lcd.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": "",
+  "keywords": [
+    "adafruit",
+    "i2c",
+    "lcd"
+  ],
+  "author": "claude keswani",
+  "license": "BSD"
+}
